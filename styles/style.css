@@ -177,11 +177,10 @@ border-radius: 14.6913px;
         grid-template-columns: repeat(1,1fr);
     }
     .playre{
-        justify-content: center
+        justify-items: start
     }
     .blog{
         flex-wrap: wrap;
-        justify-content: center
     }
     .courses{
         grid-template-columns: repeat(1,1fr);
@@ -205,6 +204,9 @@ border-radius: 14.6913px;
    }
    .blogs{
     margin-left: 20px;
+   }
+   .section-title{
+    text-align: center;
    }
 
    }
